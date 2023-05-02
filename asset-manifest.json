@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/data-finance/static/css/main.956537e9.css",
+    "main.js": "/data-finance/static/js/main.8e03f002.js",
+    "static/media/laptop.jpg": "/data-finance/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/data-finance/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/data-finance/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/data-finance/static/media/triple.4eb8f19f4b4647321484.png",
+    "static/media/github.svg": "/data-finance/static/media/github.b7e3bf9816ec9a907a9c270146a7e8f4.svg",
+    "static/media/githubhover.svg": "/data-finance/static/media/githubhover.7ddba66d4fb688f51a63a446e1052586.svg",
+    "static/media/linkedhover.svg": "/data-finance/static/media/linkedhover.caa4eb0c0589af0d6de473d36aba053d.svg",
+    "static/media/linked.svg": "/data-finance/static/media/linked.418ec4c16a43f6aa32c6081edbb05d3f.svg",
+    "static/media/phone.svg": "/data-finance/static/media/phone.4be6aa0e6b75c5ae1bb8fc704a47b71e.svg",
+    "static/media/phonehover.svg": "/data-finance/static/media/phonehover.8f28d0199f58b04d2b3d8c9cda97fe0e.svg",
+    "static/media/email.svg": "/data-finance/static/media/email.cdc2e0a8a584717c1b4b8ad91b50753c.svg",
+    "static/media/emailhover.svg": "/data-finance/static/media/emailhover.93fec72c1ae91ffbbade8c195dcae6ec.svg",
+    "index.html": "/data-finance/index.html",
+    "main.956537e9.css.map": "/data-finance/static/css/main.956537e9.css.map",
+    "main.8e03f002.js.map": "/data-finance/static/js/main.8e03f002.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.956537e9.css",
+    "static/js/main.8e03f002.js"
+  ]
+}
